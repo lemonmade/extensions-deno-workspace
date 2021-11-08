@@ -1,0 +1,4 @@
+---
+name: Extension one
+extension_points:
+  - Checkout::ShippingMethod::RenderAfter

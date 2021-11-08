@@ -1,0 +1,4 @@
+---
+name: Extension two
+extension_points:
+  - Checkout::Actions::RenderAfter
